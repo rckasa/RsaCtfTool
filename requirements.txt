@@ -2,3 +2,4 @@ PyCrypto
 GMPY2
 SymPy
 requests
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
